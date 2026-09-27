@@ -22,11 +22,11 @@
 Windows 常见位置：
 
 ```text
-%USERPROFILE%\\.codex\\skills\\jiawei-image-prompts\\SKILL.md
+%USERPROFILE%\.codex\skills\jiawei-image-prompts\SKILL.md
 ```
 
 安装或更新后，按 Codex 的技能发现机制重新加载技能，或重启 Codex。
 
 ## 许可
 
-本仓库未附带开源许可证。公开可见不等于授予额外的复制、修改或再分发许可。
+本仓库原创的 Skill 与说明文档采用 [Creative Commons Attribution 4.0 International（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/) 许可，完整条款见 [LICENSE](LICENSE)。你可以复制、改编、再发布和商业使用，但须按许可证要求署名、附上许可证链接，并说明是否做过修改。第三方商标和服务仍归其各自权利人。
